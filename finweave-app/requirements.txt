@@ -1,0 +1,4 @@
+streamlit==1.38.0  # Web app framework
+pandas==2.2.2  # Data processing (e.g., CSV handling)
+groq==0.10.0  # Groq API for AI agent 
+
