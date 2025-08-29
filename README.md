@@ -9,9 +9,9 @@ Anonymized Peer Insights Hive: Get anonymized peer tips and common patterns from
 
 Installation
 Prerequisites
-Python 3.12.x (recommended for compatibility and stability)
-Git
-A valid Groq API key for AI features
+1)Python 3.12.x (recommended for compatibility and stability)
+2)Git
+3)A valid Groq API key for AI features
 
 Setup Steps
 1)Clone the Repository
