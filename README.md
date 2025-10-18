@@ -44,7 +44,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/RAJ-MANE/FINWEAVE.git
+   git clone https://github.com/Pratham-Mishra225/Finweave.git
    cd FINWEAVE
    ```
 
