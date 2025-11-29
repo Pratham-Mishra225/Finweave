@@ -1,0 +1,51 @@
+# Virtual Environments
+.venv
+.venv312/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+backend/.env
+*.env.local
+
+# Firebase credentials
+firebase-credentials.json
+backend/firebase-credentials.json
+*-firebase-adminsdk-*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
