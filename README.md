@@ -333,7 +333,7 @@ This project is private and proprietary. All rights reserved.
 
 ## 👥 Authors
 
-- **Pratham Mishra** - [GitHub Profile](https://github.com/Pratham-Mishra225)
+- **Pratham Mishra** - (https://github.com/Pratham-Mishra225)
 
 ## 🙏 Acknowledgments
 
@@ -348,4 +348,3 @@ For questions or support, please open an issue on GitHub or contact the developm
 
 ---
 
-**Built with ❤️ using FastAPI and React Native (Expo) for MUMBAI HACKS**
